@@ -7,8 +7,6 @@
 
 <h3 align="left">Mes réseaux sociaux:</h3>
 <a href="https://twitter.com/vabyz971" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Compte twitter" height="40" width="40" /></a>
-<a href="https://discord/vabyz971
-#6387" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" alt="Dicord" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
