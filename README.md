@@ -24,7 +24,12 @@
 - Partager mes connaissances avec la communauté
 
 ## 📫 Connectons-nous
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jahleel2b9sa2/])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/vabyz971])
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jahleel2b9sa2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/vabyz971">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
+  </a>
+</div>
 ⭐ N'hésitez pas à explorer mes repositories et à me laisser vos retours !
