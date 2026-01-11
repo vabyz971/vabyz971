@@ -1,10 +1,30 @@
+# 👋 Salut, je suis vabyz !
 
-# 💻 Tech:
+**Développeur passionné** par la création de solutions logicielles et l'apprentissage continu.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+## 🚀 À propos de moi
+- 🔭 Actuellement, je travaille sur différents projets personnels pour approfondir mes compétences
+- 🌱 J'apprends et me perfectionne constamment en développement web et en architecture logicielle
+- 💬 N'hésitez pas à me contacter pour échanger sur des collaborations ou des projets
 
-# 📊 GitHub Stats:
+## 🛠️ Technologies & Outils
+- **Langages** : Python, Typescript, Nix, Lua
+- **Frontend** : Vue.js, Nuxt.js, HTML/CSS/SCSS
+- **Backend** : Node.js, Django, Flask
+- **Bases de données** : MariaDB, MongoDB, PostgreSQL
+- **Outils** : Git, Docker, VS Code
 
-![](https://github-readme-stats.vercel.app/api?username=vabyz971&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vabyz971&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vabyz971&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📈 Mes stats GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=vabyz971&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=vabyz971&layout=compact&theme=radical)
+
+## 🎯 Objectifs
+- Développer des projets innovants avec des technologies modernes
+- Contribuer à des projets open source
+- Partager mes connaissances avec la communauté
+
+## 📫 Connectons-nous
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jahleel2b9sa2/])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/vabyz971])
+
+⭐ N'hésitez pas à explorer mes repositories et à me laisser vos retours !
